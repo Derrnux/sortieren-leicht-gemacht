@@ -275,7 +275,7 @@ public class SuMAnwendung extends EBAnwendung
             sorted = true;
         }
     }
-    
+    //teste auf frieden der heiligen
     public void bMergeGeklickt()
     {
         status.setzeSchriftFarbe(10); // Status zeigt hier in der Farbe Rot an, das nun berechnet wird
